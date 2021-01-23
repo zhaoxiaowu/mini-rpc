@@ -1,0 +1,12 @@
+# Except this file !.gitignore
+
+#eclipse
+.classpath
+.project
+.settings
+#idea
+.idea
+*.iml
+
+target
+.DS_Store
